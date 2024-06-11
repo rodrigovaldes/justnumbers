@@ -1,3 +1,3 @@
-# This is an example text
+# This is an example text of many other examples
 
-In this text, we are goin to analyze life
+In this text, we are going to analyze the life
